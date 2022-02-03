@@ -1,0 +1,1 @@
+export const mean = (): string => "I don't like your face";
